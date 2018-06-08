@@ -17,8 +17,9 @@ that you have already learned.
 */
 
 function convertToF(celsius) {
-  let fahrenheit = celsius * 9 / 5 + 32;
+  const fahrenheit = celsius * 9 / 5 + 32;
+
   return fahrenheit;
 }
 
-convertToF(30);
+console.log(convertToF(30));
