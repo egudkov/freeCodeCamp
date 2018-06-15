@@ -23,6 +23,13 @@
     - [ ] Intermediate Algorithm Scripting
     - [ ] **JavaScript Algorithms and Data Structures Projects**
   - [ ] Front End Libraries Certification
+    - [x] Bootstrap
+    - [x] jQuery
+    - [ ] Sass
+    - [ ] React
+    - [ ] Redux
+    - [ ] React and Redux
+    - [ ] **Front End Libraries Projects**
   - [ ] Data Visualization Certification
   - [ ] Apis And Microservices Certification
   - [ ] Information Security And Quality Assurance Certification
