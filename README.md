@@ -25,7 +25,7 @@
   - [ ] Front End Libraries Certification
     - [x] Bootstrap
     - [x] jQuery
-    - [ ] Sass
+    - [x] Sass
     - [ ] React
     - [ ] Redux
     - [ ] React and Redux
