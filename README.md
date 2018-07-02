@@ -6,7 +6,7 @@
     - [x] Basic HTML and HTML5  
     - [x] Basic CSS  
     - [x] Applied Visual Design  
-    - [ ] Applied Accessibility  
+    - [x] Applied Accessibility  
     - [x] Responsive Web Design Principles  
     - [ ] CSS Flexbox  
     - [ ] CSS Grid  
