@@ -26,7 +26,7 @@
     - [x] Bootstrap
     - [x] jQuery
     - [x] Sass
-    - [ ] React
+    - [x] React
     - [ ] Redux
     - [ ] React and Redux
     - [ ] **Front End Libraries Projects**
